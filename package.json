@@ -1,0 +1,11 @@
+{
+  "name": "testwithjest",
+  "version": "1.0.0",
+  "description": "test with jest",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
